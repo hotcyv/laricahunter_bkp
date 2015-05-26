@@ -13,6 +13,6 @@ Dessa forma, o contexo do projeto é o compartilhamento de itens de menu de bare
 - Wilson Flavio Rodrigues <wfr@cin.ufpe.br>
 
 ## Ambiente de teste
-A aplicação pode ser acessada em 
+A aplicação pode ser acessada em https://laricahunter-hotcyv.c9.io/
 
 
