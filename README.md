@@ -4,7 +4,7 @@ Projeto da disciplina de Engenharia de Software(MPI906) onde propõe-se a práti
 Dessa forma, o contexo do projeto é o compartilhamento de itens de menu de bares &amp; botecos.
 
 ## Integrantes
-- Andrey Carmisini <ac2@cin.ufpe.br>
+- Andrey Carmisini <ac3@cin.ufpe.br>
 - Carlos Eduardo Serpa de Sousa <cess@cin.ufpe.br>
 - Daniel Fernando Carossi <dfc3@cin.ufpe.br>
 - Jaime Miranda Junior <jmj@cin.ufpe.br>
